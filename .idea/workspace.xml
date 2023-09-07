@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a66a28c-864a-43ea-b049-7cf2fc7b8469" name="Changes" comment="2023.09.06">
-      <change afterPath="$PROJECT_DIR$/반복문.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8a66a28c-864a-43ea-b049-7cf2fc7b8469" name="Changes" comment="2023.09.07">
+      <change afterPath="$PROJECT_DIR$/표준데이터형식.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -425,7 +424,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694063985650</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2023.09.07">
+      <option name="closed" value="true" />
+      <created>1694065879678</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1694065879678</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -473,8 +480,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changes" />
-    <MESSAGE value="2023.09.07" />
     <MESSAGE value="2023.09.06" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.09.06" />
+    <MESSAGE value="2023.09.07" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.09.07" />
   </component>
 </project>
