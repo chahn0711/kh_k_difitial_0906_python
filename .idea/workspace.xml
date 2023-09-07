@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a66a28c-864a-43ea-b049-7cf2fc7b8469" name="Changes" comment="2023.09.06">
-      <change afterPath="$PROJECT_DIR$/회원정보출력하기.py" afterDir="false" />
+    <list default="true" id="8a66a28c-864a-43ea-b049-7cf2fc7b8469" name="Changes" comment="2023.09.07">
+      <change afterPath="$PROJECT_DIR$/문자열다루기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/반복문.py" beforeDir="false" afterPath="$PROJECT_DIR$/반복문.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/표준데이터형식.py" beforeDir="false" afterPath="$PROJECT_DIR$/표준데이터형식.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="반복문" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="반복문" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="work_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,7 +286,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.반복문" />
         <item itemvalue="Python.파이썬입력" />
         <item itemvalue="Python.조건문회원가입" />
         <item itemvalue="Python.조건문문제풀기" />
@@ -442,7 +441,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694066567983</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2023.09.07">
+      <option name="closed" value="true" />
+      <created>1694074845205</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1694074845205</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -490,8 +497,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changes" />
-    <MESSAGE value="2023.09.07" />
     <MESSAGE value="2023.09.06" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.09.06" />
+    <MESSAGE value="2023.09.07" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.09.07" />
   </component>
 </project>
