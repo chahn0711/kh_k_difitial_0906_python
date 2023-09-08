@@ -20,7 +20,7 @@ print(f"증감연산자 시험 : {i}")
 # income = int(input("당신은 수입이 얼마입니까? "))
 # print(f"당신이 내야 할 세금은 {income * TAX_RATE:.2f} 입니다.")
 
-# 관례 연산자 : AND(&&) => and, OR(||) => or, NOT(!) => not
+# 관계 연산자 : AND(&&) => and, OR(||) => or, NOT(!) => not
 x = 10
 y = 20
 z = 30
