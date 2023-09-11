@@ -11,7 +11,7 @@ print(f"제곱연산 : {i**j}")
 test = "Python !!!"
 print(test + "Hello")
 print(test + str(100))
-print(test * 3) # test 문자열을 2번 반복한다는 의미
+print(test * 3) # test 문자열을 2번 반복한다는 의미                                   
 i += 1 # 파이썬은 증감 연산자가 없음
 print(f"증감연산자 시험 : {i}")
 
