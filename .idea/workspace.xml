@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a66a28c-864a-43ea-b049-7cf2fc7b8469" name="Changes" comment="2023.09.07">
-      <change afterPath="$PROJECT_DIR$/딕셔너리기본.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/딕셔너리커피메뉴.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/학생인적사항만들기.py" afterDir="false" />
+    <list default="true" id="8a66a28c-864a-43ea-b049-7cf2fc7b8469" name="Changes" comment="2023.09.11 오전 쉅">
+      <change afterPath="$PROJECT_DIR$/불변객체확인.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/집합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/튜플과집합.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/연산자.py" beforeDir="false" afterPath="$PROJECT_DIR$/연산자.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -659,7 +658,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694162523506</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="2023.09.11 오전 쉅">
+      <option name="closed" value="true" />
+      <created>1694399895934</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1694399895934</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -711,6 +718,7 @@
     <MESSAGE value="2023.09.08 오전 수업" />
     <MESSAGE value="2023.09.08 오후 수업" />
     <MESSAGE value="2023.09.07" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.09.07" />
+    <MESSAGE value="2023.09.11 오전 쉅" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.09.11 오전 쉅" />
   </component>
 </project>
