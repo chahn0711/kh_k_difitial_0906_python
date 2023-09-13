@@ -4,17 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a66a28c-864a-43ea-b049-7cf2fc7b8469" name="Changes" comment="2023.09.1 오전 쉅">
-      <change afterPath="$PROJECT_DIR$/다중상속.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/상속.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/쓰레드게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/연산자오버로딩.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/접근제한자.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정적메소드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/추상화.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/클래스메서드.py" afterDir="false" />
+    <list default="true" id="8a66a28c-864a-43ea-b049-7cf2fc7b8469" name="Changes" comment="2023.09.12 오후 쉅">
+      <change afterPath="$PROJECT_DIR$/모듈만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모듈불러오기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모듈연습.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/예외처리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/크롤링기본.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/테스트패키지/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/테스트패키지/테스트모듈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/파이썬문제0913.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/패키지테스트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/플라스크.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/클래스.py" beforeDir="false" afterPath="$PROJECT_DIR$/클래스.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +53,12 @@
     <setting file="file://$PROJECT_DIR$/람다함수.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/리스트.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/리스트연습문제.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/모듈만들기.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/모듈연습.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/연산자.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/조건문문제풀기.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/파이썬문제0913.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/플라스크.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/홀수짝수나누어담기.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/회원정보출력하기.py" root0="SKIP_INSPECTION" />
   </component>
@@ -86,8 +92,8 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="상속" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.파이썬문제0913">
+    <configuration name="패키지테스트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="work_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +105,91 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/상속.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/패키지테스트.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="파이썬문제0913" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬문제0913.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="예외처리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/예외처리.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="크롤링기본" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/크롤링기본.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="플라스크" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/플라스크.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -551,7 +641,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.상속" />
+        <item itemvalue="Python.파이썬문제0913" />
+        <item itemvalue="Python.예외처리" />
+        <item itemvalue="Python.패키지테스트" />
+        <item itemvalue="Python.플라스크" />
+        <item itemvalue="Python.크롤링기본" />
       </list>
     </recent_temporary>
   </component>
@@ -799,7 +893,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694494883818</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="2023.09.12 오후 쉅">
+      <option name="closed" value="true" />
+      <created>1694563991274</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1694563991274</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -854,6 +956,7 @@
     <MESSAGE value="2023.09.11 오전 쉅" />
     <MESSAGE value="2023.09.11 오후 쉅" />
     <MESSAGE value="2023.09.1 오전 쉅" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.09.1 오전 쉅" />
+    <MESSAGE value="2023.09.12 오후 쉅" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.09.12 오후 쉅" />
   </component>
 </project>
